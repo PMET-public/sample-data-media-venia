@@ -5,8 +5,12 @@
     "extra": {
         "map": [
             [
-                "*",
+                "catalog",
                 "pub/media"
+            ],
+            [
+                "downloadable",
+                "pub/media/downloadable"
             ]
         ]
     }
